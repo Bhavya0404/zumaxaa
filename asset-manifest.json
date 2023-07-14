@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/zumaxaa/static/css/main.b8e038eb.css",
+    "main.js": "/zumaxaa/static/js/main.35013955.js",
+    "static/media/image1.jpg": "/zumaxaa/static/media/image1.232dcba5ff30c5649896.jpg",
+    "index.html": "/zumaxaa/index.html",
+    "main.b8e038eb.css.map": "/zumaxaa/static/css/main.b8e038eb.css.map",
+    "main.35013955.js.map": "/zumaxaa/static/js/main.35013955.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8e038eb.css",
+    "static/js/main.35013955.js"
+  ]
+}
